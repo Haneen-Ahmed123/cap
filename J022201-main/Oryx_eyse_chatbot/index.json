@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": ["hi oryx", "hello oryx", "hey oryx","hello or"],
+      "answer": "Welcome, how can I help you?"
+    },
+    {
+      "question": ["how much space today", "what is the space today", "how many spaces today"],
+      "answer": "3 Spaces"
+    },
+    {
+      "question": ["where is the spaces", "where can I find the spaces", "location of the spaces"],
+      "answer": "In shelf 1"
+    },
+    {
+      "question": ["what is missing product in shelf 1", "what products are missing in shelf 1", "missing items in shelf 1"],
+      "answer": "1 CocaCola and 2 Chips"
+    },
+    {
+      "question": ["thanks", "thank you", "appreciate it"],
+      "answer": "Good luck!"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+Cd /path/for/image/save
+python -m http.server 2000
